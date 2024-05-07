@@ -1,21 +1,16 @@
-# YewChat 💬
+# Module 10 - Asynchronous Programming - YewChat
 
-> Source code for [Let’s Build a Websocket Chat Project With Rust and Yew 0.19 🦀](https://fsjohnny.medium.com/lets-build-a-websockets-project-with-rust-and-yew-0-19-60720367399f)
+> ##### Nanda Nathaniela Meizari - 2206824136
 
-## Install
+## Experiment 3.1: Original code
 
-1. Install the required toolchain dependencies:
-   ```npm i```
+#### Final tutorial App
 
-2. Follow the YewChat post!
+![Experiment 3.1: Original code](assets/images/WebUI.jpg)
 
-## Branches
+Tampilan YewChat
 
-This repository is divided to branches that correspond to the blog post sections:
+#### Terminal
 
-* main - The starter code.
-* routing - The code at the end of the Routing section.
-* components-part1 - The code at the end of the Components-Phase 1 section.
-* websockets - The code at the end of the Hello Websockets! section.
-* components-part2 - The code at the end of the Components-Phase 2 section.
-* websockets-part2 - The code at the end of the WebSockets-Phase 2 section.
+![Experiment 3.1: Original code](assets/images/TerminalRun.jpg)
+Terminal dari `SimpleWebSocketServer` yang berjalan di port 8080 dan client `YewChat`
